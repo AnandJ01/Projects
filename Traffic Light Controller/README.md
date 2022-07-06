@@ -1,3 +1,4 @@
+# Traffic Light Controller
 The objectives of this project are: 
 1) Understanding and implementing of indexed data  structures.
 2) Learning how to create a segmented software system. 
