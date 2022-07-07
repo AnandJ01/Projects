@@ -1,0 +1,745 @@
+Demonstration Video Link: https://drive.google.com/file/d/16kxRSBFB-P1fS-UcfUo07Lr-AbUpfnTx/view?usp=sharing
+
+-------------------------------------------------------------------Sample Output-------------------------------------------------------------------------
+
+=======================
+
+Main Menu
+    1. Add new Authoring Entity
+    2. Add Individual Author to an existing Ad Hoc Team
+    3. Add a new Publisher
+    4. Add a new Book
+    5. List Info about a Publisher
+    6. List Info about a Book
+    7. List Info about a Writing Group
+    8. Delete a Book
+    9. Update a Book
+    10. List all Publishers
+    11. List all Books
+    12. List all Authoring entities
+    13. Quit
+Enter your choice(1-13): 1
+Please Select What Type Of Authoring Entity You Want To Add:
+    1. Writing Group
+    2. Individual Author
+    3. Ad Hoc Team
+1
+Enter Email: Test.@google.com
+Enter Name: test
+Enter Head Writer: Test
+Enter Year Formed: 2001
+This Writing Group Already Exists. Please Enter New Email, Name, Head Writer, and Year Formed.
+Enter Email: Hai@gmail.com
+Enter Name: Hai Barber
+Enter Head Writer: Nathanial Vaughn
+Enter Year Formed: 2005
+Successfully Added new Writing Group.
+
+=======================
+
+Main Menu
+    1. Add new Authoring Entity
+    2. Add Individual Author to an existing Ad Hoc Team
+    3. Add a new Publisher
+    4. Add a new Book
+    5. List Info about a Publisher
+    6. List Info about a Book
+    7. List Info about a Writing Group
+    8. Delete a Book
+    9. Update a Book
+    10. List all Publishers
+    11. List all Books
+    12. List all Authoring entities
+    13. Quit
+Enter your choice(1-13): 1
+Please Select What Type Of Authoring Entity You Want To Add:
+    1. Writing Group
+    2. Individual Author
+    3. Ad Hoc Team
+2
+Enter Email: svannah@gmail.com
+Enter Name: Savannah Osborne
+Does This Author Belong To Any (More) Ad Hoc Teams (Pick No If You Are In The Process Of Creating A New Ad Hoc Team):
+    1. Yes, Choose From Existing Ad Hoc Teams
+    2. Yes, Create New Ad Hoc Teams
+    3. No
+1
+Choose From One Of the Ad Hoc Teams Below: 
+
+Ad Hoc Team: 
+    Name: adhocTeam
+    Email: stte.@google.com
+Please Enter Ad Hoc Team Email: stte.@google.com
+Does This Author Belong To Any (More) Ad Hoc Teams (Pick No If You Are In The Process Of Creating A New Ad Hoc Team):
+    1. Yes, Choose From Existing Ad Hoc Teams
+    2. Yes, Create New Ad Hoc Teams
+    3. No
+3
+Successfully Added Individual Author.
+
+=======================
+
+Main Menu
+    1. Add new Authoring Entity
+    2. Add Individual Author to an existing Ad Hoc Team
+    3. Add a new Publisher
+    4. Add a new Book
+    5. List Info about a Publisher
+    6. List Info about a Book
+    7. List Info about a Writing Group
+    8. Delete a Book
+    9. Update a Book
+    10. List all Publishers
+    11. List all Books
+    12. List all Authoring entities
+    13. Quit
+Enter your choice(1-13): 1
+Please Select What Type Of Authoring Entity You Want To Add:
+    1. Writing Group
+    2. Individual Author
+    3. Ad Hoc Team
+.
+Invalid Input.
+3
+Enter Email: carmin@yahoo.com
+Enter Name: Carmine Macias
+This Ad Hoc Team Must Have One or More Individual Authors (Pick Option 3 If You Are In The Process Of Creating A New Individual Author):
+    1. Choose From Existing Individual Authors
+    2. Create New Individual Author
+    3. All Authors Added
+2
+Enter Email: russell@gmail.com
+Enter Name: Russel Christian
+Does This Author Belong To Any (More) Ad Hoc Teams (Pick No If You Are In The Process Of Creating A New Ad Hoc Team):
+    1. Yes, Choose From Existing Ad Hoc Teams
+    2. Yes, Create New Ad Hoc Teams
+    3. No
+3
+Successfully Added Individual Author.
+This Ad Hoc Team Must Have One or More Individual Authors (Pick Option 3 If You Are In The Process Of Creating A New Individual Author):
+    1. Choose From Existing Individual Authors
+    2. Create New Individual Author
+    3. All Authors Added
+3
+Successfully Added Ad Hoc Team.
+
+=======================
+
+Main Menu
+    1. Add new Authoring Entity
+    2. Add Individual Author to an existing Ad Hoc Team
+    3. Add a new Publisher
+    4. Add a new Book
+    5. List Info about a Publisher
+    6. List Info about a Book
+    7. List Info about a Writing Group
+    8. Delete a Book
+    9. Update a Book
+    10. List all Publishers
+    11. List all Books
+    12. List all Authoring entities
+    13. Quit
+Enter your choice(1-13): 2
+Choose From One Of the Individual Authors Below: 
+
+Individual Author: 
+    Name: individual
+    Email: estt.@google.com
+
+Individual Author: 
+    Name: Savannah Osborne
+    Email: svannah@gmail.com
+
+Individual Author: 
+    Name: Russel Christian
+    Email: russell@gmail.com
+Please Enter Ad Hoc Team Email: estt.@google.com
+Choose From One Of the Ad Hoc Teams Below: 
+
+Ad Hoc Team: 
+    Name: adhocTeam
+    Email: stte.@google.com
+
+Ad Hoc Team: 
+    Name: Carmine Macias
+    Email: carmin@yahoo.com
+Please Enter Ad Hoc Team Email: stte.@google.com
+This Author Already Exists in this Ad Hoc Team.
+Please Select A different Author And/Or Team.
+Choose From One Of the Individual Authors Below: 
+
+Individual Author: 
+    Name: individual
+    Email: estt.@google.com
+
+Individual Author: 
+    Name: Savannah Osborne
+    Email: svannah@gmail.com
+
+Individual Author: 
+    Name: Russel Christian
+    Email: russell@gmail.com
+Please Enter Ad Hoc Team Email: estt.@google.com
+Choose From One Of the Ad Hoc Teams Below: 
+
+Ad Hoc Team: 
+    Name: adhocTeam
+    Email: stte.@google.com
+
+Ad Hoc Team: 
+    Name: Carmine Macias
+    Email: carmin@yahoo.com
+Please Enter Ad Hoc Team Email: carmin@yahoo.com
+Successfully Added individual To Carmine Macias Ad Hoc Team.
+
+=======================
+
+Main Menu
+    1. Add new Authoring Entity
+    2. Add Individual Author to an existing Ad Hoc Team
+    3. Add a new Publisher
+    4. Add a new Book
+    5. List Info about a Publisher
+    6. List Info about a Book
+    7. List Info about a Writing Group
+    8. Delete a Book
+    9. Update a Book
+    10. List all Publishers
+    11. List all Books
+    12. List all Authoring entities
+    13. Quit
+Enter your choice(1-13): 5
+Please Choose One Of The Publishers Below: 
+Anand
+Enter the Publisher's Name: Anand
+Publisher:
+    Name: Anand
+    Email: aj@yahoo.com
+    Phone Number: 123456789
+
+=======================
+
+Main Menu
+    1. Add new Authoring Entity
+    2. Add Individual Author to an existing Ad Hoc Team
+    3. Add a new Publisher
+    4. Add a new Book
+    5. List Info about a Publisher
+    6. List Info about a Book
+    7. List Info about a Writing Group
+    8. Delete a Book
+    9. Update a Book
+    10. List all Publishers
+    11. List all Books
+    12. List all Authoring entities
+    13. Quit
+Enter your choice(1-13): 3
+
+Adding A New Publisher: 
+Enter Name: Anand
+Enter Email: aj@yahoo.com
+Enter Phone Number: 123456789
+This Publisher Already exist. Please Enter another Name, Email, and Phone Number.
+
+Adding A New Publisher: 
+Enter Name: Hachette Book Group
+Enter Email: hachett@yahoo.com
+Enter Phone Number: 5263458792
+Successfully Added Publisher.
+
+=======================
+
+Main Menu
+    1. Add new Authoring Entity
+    2. Add Individual Author to an existing Ad Hoc Team
+    3. Add a new Publisher
+    4. Add a new Book
+    5. List Info about a Publisher
+    6. List Info about a Book
+    7. List Info about a Writing Group
+    8. Delete a Book
+    9. Update a Book
+    10. List all Publishers
+    11. List all Books
+    12. List all Authoring entities
+    13. Quit
+Enter your choice(1-13): 4
+
+Adding A New Book:
+Enter Book Title: title
+Enter Book ISBN: 123654789
+Enter Book Year: 2010
+This Book Already Exists In The Database. Please Enter Another Book Title, ISBN, and Book Year.
+
+Adding A New Book:
+Enter Book Title: Ghosted
+Enter Book ISBN: 8796321456987
+Enter Book Year: 2000
+Is The Authoring Entity In The Database:
+    1. Yes
+    2. No
+2
+Please Add New Authoring Entity To The Database.
+Please Select What Type Of Authoring Entity You Want To Add:
+    1. Writing Group
+    2. Individual Author
+    3. Ad Hoc Team
+2
+Enter Email: rosie@gmail.com
+Enter Name: Rosie Walsh
+Does This Author Belong To Any (More) Ad Hoc Teams (Pick No If You Are In The Process Of Creating A New Ad Hoc Team):
+    1. Yes, Choose From Existing Ad Hoc Teams
+    2. Yes, Create New Ad Hoc Teams
+    3. No
+3
+Successfully Added Individual Author.
+Is The Publisher In The Database:
+    1. Yes
+    2. No
+2
+Please Add New Publisher To The Database.
+
+Adding A New Publisher: 
+Enter Name: Macmillan
+Enter Email: macmillan@AOL.com
+Enter Phone Number: 8793642567
+Successfully Added Publisher.
+Successfully Added Book.
+
+=======================
+
+Main Menu
+    1. Add new Authoring Entity
+    2. Add Individual Author to an existing Ad Hoc Team
+    3. Add a new Publisher
+    4. Add a new Book
+    5. List Info about a Publisher
+    6. List Info about a Book
+    7. List Info about a Writing Group
+    8. Delete a Book
+    9. Update a Book
+    10. List all Publishers
+    11. List all Books
+    12. List all Authoring entities
+    13. Quit
+Enter your choice(1-13): 5
+Please Choose One Of The Publishers Below: 
+Anand
+Hachette Book Group
+Macmillan
+Enter the Publisher's Name: Hachette Book Group
+Publisher:
+    Name: Hachette Book Group
+    Email: hachett@yahoo.com
+    Phone Number: 5263458792
+
+=======================
+
+Main Menu
+    1. Add new Authoring Entity
+    2. Add Individual Author to an existing Ad Hoc Team
+    3. Add a new Publisher
+    4. Add a new Book
+    5. List Info about a Publisher
+    6. List Info about a Book
+    7. List Info about a Writing Group
+    8. Delete a Book
+    9. Update a Book
+    10. List all Publishers
+    11. List all Books
+    12. List all Authoring entities
+    13. Quit
+Enter your choice(1-13): 5
+Please Choose One Of The Publishers Below: 
+Anand
+Hachette Book Group
+Macmillan
+Enter the Publisher's Name: iseie
+This Publisher Doesn't Exist In The Database, Please Enter One Of The Publisher Names Above.
+Enter the Publisher's Name: Macmillan
+Publisher:
+    Name: Macmillan
+    Email: macmillan@AOL.com
+    Phone Number: 8793642567
+
+=======================
+
+Main Menu
+    1. Add new Authoring Entity
+    2. Add Individual Author to an existing Ad Hoc Team
+    3. Add a new Publisher
+    4. Add a new Book
+    5. List Info about a Publisher
+    6. List Info about a Book
+    7. List Info about a Writing Group
+    8. Delete a Book
+    9. Update a Book
+    10. List all Publishers
+    11. List all Books
+    12. List all Authoring entities
+    13. Quit
+Enter your choice(1-13): 6
+Please Choose One Of The Books Below: 
+123654789
+8796321456987
+Enter the Book's ISBN: 2568795463159
+This Book Doesn't Exist In The Database, Please Enter One Of The Book's ISBN Above.
+Enter the Book's ISBN: 8796321456987
+Book: 
+    Title: Ghosted
+    ISBN: 8796321456987
+    Book Year: 2000
+    Authoring Entity Email: rosie@gmail.com
+    Publisher Name: Macmillan
+
+=======================
+
+Main Menu
+    1. Add new Authoring Entity
+    2. Add Individual Author to an existing Ad Hoc Team
+    3. Add a new Publisher
+    4. Add a new Book
+    5. List Info about a Publisher
+    6. List Info about a Book
+    7. List Info about a Writing Group
+    8. Delete a Book
+    9. Update a Book
+    10. List all Publishers
+    11. List all Books
+    12. List all Authoring entities
+    13. Quit
+Enter your choice(1-13): 7
+Please Choose One Of The Writing Groups Below: 
+Test.@google.com
+Hai@gmail.com
+Enter the Writing Groups Email: Test.@google.com
+Writing Group: 
+    Name: test
+    Email: Test.@google.com
+    Head Writer: Test
+    Year Formed: 2001
+
+=======================
+
+Main Menu
+    1. Add new Authoring Entity
+    2. Add Individual Author to an existing Ad Hoc Team
+    3. Add a new Publisher
+    4. Add a new Book
+    5. List Info about a Publisher
+    6. List Info about a Book
+    7. List Info about a Writing Group
+    8. Delete a Book
+    9. Update a Book
+    10. List all Publishers
+    11. List all Books
+    12. List all Authoring entities
+    13. Quit
+Enter your choice(1-13): 7
+Please Choose One Of The Writing Groups Below: 
+Test.@google.com
+Hai@gmail.com
+Enter the Writing Groups Email: anand.jasti@yahoo.com
+This Writing Group Doesn't Exist In The Database, Please Enter One Of The Writing Group's Email Above.
+Enter the Writing Groups Email: Hai@gmail.com
+Writing Group: 
+    Name: Hai Barber
+    Email: Hai@gmail.com
+    Head Writer: Nathanial Vaughn
+    Year Formed: 2005
+
+=======================
+
+Main Menu
+    1. Add new Authoring Entity
+    2. Add Individual Author to an existing Ad Hoc Team
+    3. Add a new Publisher
+    4. Add a new Book
+    5. List Info about a Publisher
+    6. List Info about a Book
+    7. List Info about a Writing Group
+    8. Delete a Book
+    9. Update a Book
+    10. List all Publishers
+    11. List all Books
+    12. List all Authoring entities
+    13. Quit
+Enter your choice(1-13): 8
+Please Select From One Of The Following Books: 
+Book: 
+    Title: title
+    ISBN: 123654789
+    Book Year: 2010
+    Authoring Entity Email: Test.@google.com
+    Publisher Name: Anand
+
+Book: 
+    Title: Ghosted
+    ISBN: 8796321456987
+    Book Year: 2000
+    Authoring Entity Email: rosie@gmail.com
+    Publisher Name: Macmillan
+
+Please Enter A Book's ISBN: 96548753216
+This Books Doesn't Exist In The Database, Please Choose The Correct ISBN From One Of The Books Above.
+
+Please Enter A Book's ISBN: 123654789
+Successfully Deleted Book.
+
+=======================
+
+Main Menu
+    1. Add new Authoring Entity
+    2. Add Individual Author to an existing Ad Hoc Team
+    3. Add a new Publisher
+    4. Add a new Book
+    5. List Info about a Publisher
+    6. List Info about a Book
+    7. List Info about a Writing Group
+    8. Delete a Book
+    9. Update a Book
+    10. List all Publishers
+    11. List all Books
+    12. List all Authoring entities
+    13. Quit
+Enter your choice(1-13): 9
+Please Select From One Of The Following Books: 
+Book: 
+    Title: Ghosted
+    ISBN: 8796321456987
+    Book Year: 2000
+    Authoring Entity Email: rosie@gmail.com
+    Publisher Name: Macmillan
+
+Please Enter A Book's ISBN: 8796321456987
+Changing Authoring Entity:
+    1. Choose Existing Authoring Entity
+    2. Add New Authoring Entity
+1
+Please Select Form On Of the Following Authoring Entities:
+
+Ad Hoc Team: 
+    Name: adhocTeam
+    Email: stte.@google.com
+
+Individual Author: 
+    Name: individual
+    Email: estt.@google.com
+
+Writing Group: 
+    Name: test
+    Email: Test.@google.com
+    Head Writer: Test
+    Year Formed: 2001
+
+Writing Group: 
+    Name: Hai Barber
+    Email: Hai@gmail.com
+    Head Writer: Nathanial Vaughn
+    Year Formed: 2005
+
+Individual Author: 
+    Name: Savannah Osborne
+    Email: svannah@gmail.com
+
+Ad Hoc Team: 
+    Name: Carmine Macias
+    Email: carmin@yahoo.com
+
+Individual Author: 
+    Name: Russel Christian
+    Email: russell@gmail.com
+
+Individual Author: 
+    Name: Rosie Walsh
+    Email: rosie@gmail.com
+Please Enter Authoring Entities' Email: 
+estt.@google.com
+Successfully Updated Book.
+
+=======================
+
+Main Menu
+    1. Add new Authoring Entity
+    2. Add Individual Author to an existing Ad Hoc Team
+    3. Add a new Publisher
+    4. Add a new Book
+    5. List Info about a Publisher
+    6. List Info about a Book
+    7. List Info about a Writing Group
+    8. Delete a Book
+    9. Update a Book
+    10. List all Publishers
+    11. List all Books
+    12. List all Authoring entities
+    13. Quit
+Enter your choice(1-13): 11
+
+Book: 
+    Title: Ghosted
+    ISBN: 8796321456987
+    Book Year: 2000
+    Authoring Entity Email: estt.@google.com
+    Publisher Name: Macmillan
+
+=======================
+
+Main Menu
+    1. Add new Authoring Entity
+    2. Add Individual Author to an existing Ad Hoc Team
+    3. Add a new Publisher
+    4. Add a new Book
+    5. List Info about a Publisher
+    6. List Info about a Book
+    7. List Info about a Writing Group
+    8. Delete a Book
+    9. Update a Book
+    10. List all Publishers
+    11. List all Books
+    12. List all Authoring entities
+    13. Quit
+Enter your choice(1-13): 10
+
+Publisher:
+    Name: Anand
+    Email: aj@yahoo.com
+    Phone Number: 123456789
+
+Publisher:
+    Name: Hachette Book Group
+    Email: hachett@yahoo.com
+    Phone Number: 5263458792
+
+Publisher:
+    Name: Macmillan
+    Email: macmillan@AOL.com
+    Phone Number: 8793642567
+
+=======================
+
+Main Menu
+    1. Add new Authoring Entity
+    2. Add Individual Author to an existing Ad Hoc Team
+    3. Add a new Publisher
+    4. Add a new Book
+    5. List Info about a Publisher
+    6. List Info about a Book
+    7. List Info about a Writing Group
+    8. Delete a Book
+    9. Update a Book
+    10. List all Publishers
+    11. List all Books
+    12. List all Authoring entities
+    13. Quit
+Enter your choice(1-13): 12
+
+Ad Hoc Team: 
+    Name: adhocTeam
+    Email: stte.@google.com
+
+Individual Author: 
+    Name: individual
+    Email: estt.@google.com
+
+Writing Group: 
+    Name: test
+    Email: Test.@google.com
+    Head Writer: Test
+    Year Formed: 2001
+
+Writing Group: 
+    Name: Hai Barber
+    Email: Hai@gmail.com
+    Head Writer: Nathanial Vaughn
+    Year Formed: 2005
+
+Individual Author: 
+    Name: Savannah Osborne
+    Email: svannah@gmail.com
+
+Ad Hoc Team: 
+    Name: Carmine Macias
+    Email: carmin@yahoo.com
+
+Individual Author: 
+    Name: Russel Christian
+    Email: russell@gmail.com
+
+Individual Author: 
+    Name: Rosie Walsh
+    Email: rosie@gmail.com
+
+=======================
+
+Main Menu
+    1. Add new Authoring Entity
+    2. Add Individual Author to an existing Ad Hoc Team
+    3. Add a new Publisher
+    4. Add a new Book
+    5. List Info about a Publisher
+    6. List Info about a Book
+    7. List Info about a Writing Group
+    8. Delete a Book
+    9. Update a Book
+    10. List all Publishers
+    11. List all Books
+    12. List all Authoring entities
+    13. Quit
+Enter your choice(1-13): 15
+Invalid Range.
+0
+Invalid Range.
+fg
+Invalid Input.
+13
+
+Thank you for using the program.
+
+Process finished with exit code 0
+
+--------------------------------------------------------Tables After Running the Code------------------------------------------------------------------------
+__________AD_HOC_TEAM_MEMBERS Table______________
+
++------------------+------------------------+
+|AD_HOC_TEAMS_EMAIL|INDIVIDUAL_AUTHORS_EMAIL|
++------------------+------------------------+
+|carmin@yahoo.com  |estt.@google.com        |
+|carmin@yahoo.com  |russell@gmail.com       |
+|stte.@google.com  |estt.@google.com        |
++------------------+------------------------+
+
+
+____________AUTHORING_ENTITIES Table_________________
+
++-----------------+---------------------+----------------+----------------+-----------+
+|EMAIL            |AUTHORING_ENTITY_TYPE|NAME            |HEAD_WRITER     |YEAR_FORMED|
++-----------------+---------------------+----------------+----------------+-----------+
+|stte.@google.com |team                 |adhocTeam       |NULL            |NULL       |
+|estt.@google.com |author               |individual      |NULL            |NULL       |
+|Test.@google.com |writing group        |test            |Test            |2001       |
+|Hai@gmail.com    |writing group        |Hai Barber      |Nathanial Vaughn|2005       |
+|svannah@gmail.com|author               |Savannah Osborne|NULL            |NULL       |
+|carmin@yahoo.com |team                 |Carmine Macias  |NULL            |NULL       |
+|russell@gmail.com|author               |Russel Christian|NULL            |NULL       |
+|rosie@gmail.com  |author               |Rosie Walsh     |NULL            |NULL       |
++-----------------+---------------------+----------------+----------------+-----------+
+
+
+_____________BOOK Table______________________
+
++-------------+---------+-------+----------------+--------------+
+|ISBN         |BOOK_YEAR|TITLE  |EMAIL           |PUBLISHER_NAME|
++-------------+---------+-------+----------------+--------------+
+|8796321456987|2000     |Ghosted|estt.@google.com|Macmillan     |
++-------------+---------+-------+----------------+--------------+
+
+
+___________PUBLISHERS Table_______________________
+
++-------------------+-----------------+----------+
+|NAME               |EMAIL            |PHONE     |
++-------------------+-----------------+----------+
+|Anand              |aj@yahoo.com     |123456789 |
+|Hachette Book Group|hachett@yahoo.com|5263458792|
+|Macmillan          |macmillan@AOL.com|8793642567|
++-------------------+-----------------+----------+
