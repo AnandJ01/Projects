@@ -10,8 +10,7 @@ The purpose of this project is to build an autonomous Wall Follower Robot Car us
 8) DC Motors and motor drivers.
 9) IR sensors and sensor drivers.
 
-
-Link to Demonstration videos: 
+## Link to Demonstration videos: 
   1) Forward in the middle:
     https://drive.google.com/file/d/1fAIQaFzEt25InrQ1jtdM3Aa2dBDHU0qu/view?usp=sharing
   2) Forward 20cm to the left wall:
