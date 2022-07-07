@@ -6,4 +6,5 @@ The purpose of this project is to get some pratice with:
 4) Phase-Locked Loop (PLL).
 5) Power supply circuits.
 6) DC Motors and motor drivers.
+
 And to build a wheeled robot that changes its speed and direction according to the input switches on the Microcontorller.
