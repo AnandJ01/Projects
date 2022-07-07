@@ -6,7 +6,4 @@ The objectives of this project are:
 4) Learn how to use a hardware timer. Software skills you will learn include defining data structure for FSM, building Moore FSM engine, creating fixed-time delays using the SysTick timer, and debugging real-time systems.
 
 Link to Demonstration video: 
-[https://drive.google.com/file/d/1VV6YcyJuq4cMqffnZUwydkhXFu3yCwZn/view
-?usp=sharing]
-(https://drive.google.com/file/d/1VV6YcyJuq4cMqffnZUwydkhXFu3yCwZn/view
-?usp=sharing)
+https://drive.google.com/file/d/1VV6YcyJuq4cMqffnZUwydkhXFu3yCwZn/view?usp=sharing
