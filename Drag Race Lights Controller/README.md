@@ -1,4 +1,4 @@
-# Drage Race Lights Controller
+# Drag Race Lights Controller
 The purpose of this project is to combine the concepts of
 1) Interfacing to switches and LEDs.
 2) Using a Moore finite state machine (FSM).
